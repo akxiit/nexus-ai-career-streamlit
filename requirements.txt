@@ -1,0 +1,8 @@
+streamlit
+langgraph
+langgraph-checkpoint-sqlite
+langchain-core
+langchain-huggingface
+huggingface_hub
+python-dotenv
+pypdf
